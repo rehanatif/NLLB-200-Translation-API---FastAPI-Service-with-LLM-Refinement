@@ -257,3 +257,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 If you find this project useful, please consider giving it a star!
 
 
+## Laravel App Changes
+
+The "Laravel Changes" folder includes all required files to integrate and ensure compatibility between your Laravel application and the FastAPI-based NLLB-200 AI translation model, enabling synchronization of content into a secondary language. You need to add that folder's files past into your laravel app.
